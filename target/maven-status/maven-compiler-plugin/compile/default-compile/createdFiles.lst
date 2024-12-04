@@ -1,0 +1,8 @@
+OrderDataProvider.class
+OrderApiClient.class
+UserLoginRequest.class
+RestClient.class
+UserApiClient.class
+UserRegistrationRequest.class
+UserDataGenerator.class
+OrderCreationRequest.class

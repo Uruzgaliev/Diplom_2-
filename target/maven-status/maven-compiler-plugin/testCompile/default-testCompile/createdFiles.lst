@@ -1,0 +1,5 @@
+UserCreationTests.class
+OrderCreationTests.class
+UserDataUpdateTest.class
+UserOrderRetrievalTest.class
+UserAuthenticationTest.class
